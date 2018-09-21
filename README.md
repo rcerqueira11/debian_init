@@ -1,4 +1,14 @@
 
+## Init
+
+  1. su
+  2. sh `init.sh`
+  3. config sudo
+  4. exit sudo
+  5. sh `node_ruby.sh`
+  6. download debs
+  7. sh `deb_install.sh`
+
 ## Postgres things
 
   1. su
