@@ -79,3 +79,6 @@
 - gitkraken
 - franz
 
+## Git helper store
+
+- git config credential.helper store
