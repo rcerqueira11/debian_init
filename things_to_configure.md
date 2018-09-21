@@ -82,3 +82,7 @@
 ## Git helper store
 
 - git config credential.helper store
+
+## npm expo install
+
+- npm install expo-cli --global
